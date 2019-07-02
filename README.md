@@ -1,3 +1,3 @@
 # regression
-supervised machine learning 
-linear regression model
+#supervised machine learning 
+(this section comprises of various models of machine learning regression models)
